@@ -7,7 +7,7 @@ Projeto desenvolvido em **Java** com o objetivo de aplicar os principais conceit
 * Cadastro de clientes;
 * Cadastro de imóveis (Casa, Apartamento e Terreno);
 * Listagem de imóveis;
-* Busca de imóveis por código;
+* Busca de imóveis por código ou por tipo (Casa, Apartamento e Terreno);
 * Venda de imóveis;
 * Aluguel de imóveis;
 * Emissão de contratos;
